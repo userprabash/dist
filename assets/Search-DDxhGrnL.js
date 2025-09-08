@@ -1,4 +1,4 @@
-import{r as a,b as d,j as e,L as h,s as u}from"./index-OS7XJ79a.js";function x(){const[c,n]=a.useState([]),[l,i]=a.useState(!0),o=d(),r=new URLSearchParams(o.search).get("query");return a.useEffect(()=>{r&&(async()=>{i(!0);try{const t=await u.fetch(`*[_type == "product" && title match $searchTerm]{
+import{r as a,b as d,j as e,L as h,s as u}from"./index-BQKnNZ3U.js";function x(){const[c,n]=a.useState([]),[l,i]=a.useState(!0),o=d(),r=new URLSearchParams(o.search).get("query");return a.useEffect(()=>{r&&(async()=>{i(!0);try{const t=await u.fetch(`*[_type == "product" && title match $searchTerm]{
               _id,
               title,
               price,

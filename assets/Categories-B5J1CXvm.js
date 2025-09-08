@@ -1,4 +1,4 @@
-import{r as c,s as m,j as e,L as u}from"./index-OS7XJ79a.js";import{S as p}from"./SEO-BxfQ2Ia5.js";function j({onCategorySelect:s}){const[i,l]=c.useState([]),[a,t]=c.useState(!0);return c.useEffect(()=>{m.fetch(`*[_type == "category"] | order(title asc){
+import{r as c,s as m,j as e,L as u}from"./index-BQKnNZ3U.js";import{S as p}from"./SEO-CSzDxIZg.js";function j({onCategorySelect:s}){const[i,l]=c.useState([]),[a,t]=c.useState(!0);return c.useEffect(()=>{m.fetch(`*[_type == "category"] | order(title asc){
       _id,
       title,
       "slug": slug.current

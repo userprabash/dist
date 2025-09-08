@@ -1,4 +1,4 @@
-import{r,s as x,j as e,L as t}from"./index-OS7XJ79a.js";import{b as h}from"./04-BVqPHm3Y.js";function g(){const[l,i]=r.useState([]),[o,c]=r.useState(!0);return r.useEffect(()=>{x.fetch(`*[_type == "product"] | order(_createdAt desc){
+import{r,s as x,j as e,L as t}from"./index-BQKnNZ3U.js";import{b as h}from"./04-BVqPHm3Y.js";function g(){const[l,i]=r.useState([]),[o,c]=r.useState(!0);return r.useEffect(()=>{x.fetch(`*[_type == "product"] | order(_createdAt desc){
       _id,
       title,
       name,
